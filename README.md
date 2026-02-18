@@ -3,6 +3,19 @@ Chargeup Solution
 
 The Chargeup Solution project is a multi-site clean mobility initiative implemented by E-Chargeup Solutions Pvt. Ltd. across multiple cities in India. The project involves the deployment and operation of 4,245 electric three-wheelers for last-mile passenger transport, supported by an innovative Battery-as-a-Service (BaaS) model. By replacing conventional petrol-based auto-rickshaws, the project significantly reduces greenhouse gas emissions, improves urban air quality, and lowers operating costs for drivers. The project applies AMS-III.C methodology and is expected to achieve total emission reductions of approximately 21,531 tCO₂e over crediting period, while also delivering strong social and economic co-benefits.
 
+First Issuance Period: 03 years, 00 months – 01/11/2025 to 31/10/2028
+
+Double-counting: 
+
+1. The methodology does not restrict the E/V battery producers to be a project participant. A broad range 
+of entities can become project participants, including battery suppliers as long as there are procedures 
+in place to avoid double-counting as indicated in paragraph 7 of AMS-III.C version 15.0. 
+
+2. Paragraph 7 of AMS-III.C, version 15, provides examples of approaches to avoid double-counting, e.g. 
+a contractual agreement with the end-user(s), maintenance of comprehensive inventory of project 
+vehicles or unique identification of the vehicles owned by end-user(s). Additional approaches proposed 
+by the project participants, if any, shall be documented in the PDD and validated by a DOE. 
+
 Scale of the project activity Small
 
 Project participants E-Chargeup Solutions Pvt Ltd
